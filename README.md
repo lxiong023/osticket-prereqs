@@ -4,7 +4,7 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 
-
+This demo shows how to install an open-source help desk system "osTicket" on a virtual machine created with Microsoft Azure.
 
 
 
@@ -20,11 +20,12 @@
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+-	Install/Enable IIS in Windows
+-	PHP Manager for IIS
+-	Rewrite Module
+-	PHP-7.3.8
+-	MySQL/HeidiSQL
+
 
 <h2>Installation Steps</h2>
 
